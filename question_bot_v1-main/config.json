@@ -1,0 +1,20 @@
+{
+    "setting": {
+        "category": "1038826961016983567",
+        "guild": "1038826960673058896",
+        "guild2": "1038826960673058896",
+        "log_channel": "1038826961369313458"
+    },
+
+    "bot": {
+        "token": "MTAzOTE5MTk3Mjc1NTI4NDA2OA.GBpaUk.SlS_nRjVmWvyAvSqFLn2hetWVdS0NpztFO5_l4"
+    },
+
+    "설명서": {
+        "category": "카테고리 ID",
+        "guild": "guild ID (문의하는 길드)",
+        "guild2": "guild2 ID (문의받은 길드)",
+        "log_channel": "로그 채널 ID",
+        "token": "토큰"
+    }
+}
